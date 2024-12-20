@@ -1,0 +1,10 @@
+body{
+    background-color: thistle;
+}
+
+p{
+    display: inline-block;
+    background-color: aliceblue;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 10px;
+}
